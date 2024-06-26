@@ -77,7 +77,7 @@ def fetchData(starting_roll, ending_roll):
         print(dataArray)
 
 if __name__ == "__main__":
-    roll_ranges = [(i, i + 999) for i in range(1, 40001, 1000)]
+    roll_ranges = [(i, i + 999) for i in range(20000, 41000, 1000)]
     with ThreadPoolExecutor(max_workers=10) as executor:
         futures = [executor.submit(fetchData, start, end) for start, end in roll_ranges]
         for future in as_completed(futures):
