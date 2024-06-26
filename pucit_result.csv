@@ -1,0 +1,993 @@
+,Roll Number,Name of Category of Admission Test,Marks Obtained
+0,1,ICS with Statistics Combination (PU-CSS),52
+1,2,ICS with Statistics Combination (PU-CSS),52
+2,3,Pre-Medical (PU-M),0
+3,4,ICS with Statistics Combination (PU-CSS),44
+4,5,ICS with Statistics Combination (PU-CSS),28
+5,6,ICS with Statistics Combination (PU-CSS),47
+6,7,ICS with Statistics Combination (PU-CSS),31
+7,8,ICS with Statistics Combination (PU-CSS),37
+8,9,Pre-Engineering (PU-E),53
+9,10,Pre-Engineering (PU-E),61
+10,11,Pre-Engineering (PU-E),61
+11,12,Pre-Engineering (PU-E),0
+12,13,Pre-Engineering (PU-E),0
+13,14,Pre-Engineering (PU-E),60
+14,15,Pre-Engineering (PU-E),55
+15,16,Pre-Engineering (PU-E),60
+16,17,Pre-Engineering (PU-E),70
+17,18,Pre-Engineering (PU-E),79
+18,19,Pre-Engineering (PU-E),61
+19,20,Pre-Engineering (PU-E),76
+20,21,Pre-Engineering (PU-E),63
+21,22,Pre-Engineering (PU-E),69
+22,23,Pre-Engineering (PU-E),51
+23,24,Pre-Engineering (PU-E),48
+24,25,Pre-Engineering (PU-E),52
+25,26,Pre-Engineering (PU-E),58
+26,27,Pre-Engineering (PU-E),48
+27,28,Pre-Engineering (PU-E),73
+28,29,Pre-Engineering (PU-E),65
+29,30,Pre-Medical (PU-M),54
+30,31,Pre-Medical (PU-M),0
+31,32,Pre-Medical (PU-M),49
+32,33,Pre-Medical (PU-M),60
+33,34,Pre-Medical (PU-M),68
+34,35,Pre-Medical (PU-M),57
+35,36,Pre-Medical (PU-M),58
+36,37,Pre-Medical (PU-M),55
+37,38,Pre-Medical (PU-M),55
+38,39,Pre-Medical (PU-M),52
+39,40,Pre-Medical (PU-M),46
+40,41,Pre-Medical (PU-M),62
+41,42,Pre-Medical (PU-M),68
+42,43,Pre-Medical (PU-M),48
+43,44,Pre-Medical (PU-M),62
+44,45,Pre-Medical (PU-M),49
+45,46,Pre-Medical (PU-M),0
+46,47,Pre-Medical (PU-M),55
+47,48,Pre-Medical (PU-M),55
+48,49,Pre-Medical (PU-M),55
+49,50,Pre-Medical (PU-M),65
+50,51,Pre-Medical (PU-M),36
+51,52,Pre-Medical (PU-M),60
+52,53,Pre-Medical (PU-M),61
+53,54,Pre-Medical (PU-M),41
+54,55,Pre-Medical (PU-M),48
+55,56,Pre-Medical (PU-M),49
+56,57,Pre-Medical (PU-M),74
+57,58,Pre-Medical (PU-M),56
+58,59,Pre-Medical (PU-M),0
+59,60,Pre-Medical (PU-M),73
+60,61,Pre-Medical (PU-M),63
+61,62,Pre-Medical (PU-M),46
+62,63,Pre-Medical (PU-M),52
+63,64,Pre-Medical (PU-M),68
+64,65,Pre-Medical (PU-M),49
+65,66,Pre-Medical (PU-M),40
+66,67,Pre-Medical (PU-M),44
+67,68,Pre-Medical (PU-M),64
+68,69,Pre-Medical (PU-M),61
+69,70,Pre-Medical (PU-M),48
+70,71,Pre-Medical (PU-M),66
+71,72,Pre-Medical (PU-M),60
+72,73,Pre-Medical (PU-M),60
+73,74,Pre-Medical (PU-M),60
+74,75,Pre-Medical (PU-M),60
+75,76,Pre-Medical (PU-M),62
+76,77,Pre-Medical (PU-M),51
+77,78,Pre-Medical (PU-M),50
+78,79,Pre-Medical (PU-M),59
+79,80,Pre-Medical (PU-M),71
+80,81,Pre-Medical (PU-M),70
+81,82,Pre-Medical (PU-M),52
+82,83,Pre-Medical (PU-M),84
+83,84,Pre-Medical (PU-M),53
+84,85,Pre-Medical (PU-M),70
+85,86,Pre-Medical (PU-M),70
+86,87,Pre-Medical (PU-M),68
+87,88,Pre-Medical (PU-M),60
+88,89,Pre-Medical (PU-M),60
+89,90,Pre-Medical (PU-M),60
+90,91,Pre-Medical (PU-M),55
+91,92,Pre-Medical (PU-M),71
+92,93,Pre-Medical (PU-M),50
+93,94,Pre-Medical (PU-M),50
+94,95,Pre-Medical (PU-M),50
+95,96,Pre-Medical (PU-M),49
+96,97,Pre-Medical (PU-M),49
+97,98,Pre-Medical (PU-M),0
+98,99,Pre-Medical (PU-M),0
+99,100,Pre-Medical (PU-M),35
+100,101,Pre-Medical (PU-M),64
+101,102,Pre-Medical (PU-M),45
+102,103,Pre-Medical (PU-M),43
+103,104,Pre-Medical (PU-M),58
+104,105,Pre-Medical (PU-M),58
+105,106,Pre-Medical (PU-M),58
+106,107,Pre-Medical (PU-M),64
+107,108,Pre-Medical (PU-M),69
+108,109,Pre-Medical (PU-M),54
+109,110,Pre-Medical (PU-M),0
+110,111,Pre-Medical (PU-M),83
+111,112,Pre-Medical (PU-M),66
+112,113,Pre-Medical (PU-M),59
+113,114,Pre-Medical (PU-M),75
+114,115,Pre-Medical (PU-M),75
+115,116,Pre-Medical (PU-M),52
+116,117,Pre-Medical (PU-M),61
+117,118,Pre-Medical (PU-M),62
+118,119,Pre-Medical (PU-M),46
+119,120,Pre-Medical (PU-M),69
+120,121,Pre-Medical (PU-M),58
+121,122,Pre-Medical (PU-M),56
+122,123,Pre-Medical (PU-M),56
+123,124,Pre-Medical (PU-M),40
+124,125,Pre-Medical (PU-M),61
+125,126,Pre-Medical (PU-M),58
+126,127,Pre-Medical (PU-M),65
+127,128,Pre-Medical (PU-M),67
+128,129,Pre-Medical (PU-M),76
+129,130,Pre-Medical (PU-M),50
+130,131,Pre-Medical (PU-M),0
+131,132,Pre-Medical (PU-M),48
+132,133,Pre-Medical (PU-M),63
+133,134,Pre-Medical (PU-M),67
+134,135,Pre-Medical (PU-M),0
+135,136,Pre-Medical (PU-M),67
+136,137,Pre-Medical (PU-M),76
+137,138,Pre-Medical (PU-M),72
+138,139,"Arts, Humanities & Social Sciences (PU-AHS)",41
+139,140,"Arts, Humanities & Social Sciences (PU-AHS)",35
+140,141,"Arts, Humanities & Social Sciences (PU-AHS)",45
+141,142,"Arts, Humanities & Social Sciences (PU-AHS)",53
+142,143,"Arts, Humanities & Social Sciences (PU-AHS)",58
+143,144,"Arts, Humanities & Social Sciences (PU-AHS)",58
+144,145,"Arts, Humanities & Social Sciences (PU-AHS)",66
+145,146,"Arts, Humanities & Social Sciences (PU-AHS)",66
+146,147,"Arts, Humanities & Social Sciences (PU-AHS)",44
+147,148,"Arts, Humanities & Social Sciences (PU-AHS)",44
+148,149,"Arts, Humanities & Social Sciences (PU-AHS)",44
+149,150,"Arts, Humanities & Social Sciences (PU-AHS)",64
+150,151,"Arts, Humanities & Social Sciences (PU-AHS)",55
+151,152,Commerce (PU-COM),55
+152,153,General Science (PU-GS),34
+153,154,General Science (PU-GS),34
+154,155,Pre-Medical (PU-M),63
+155,156,Pre-Medical (PU-M),60
+156,157,Pre-Medical (PU-M),74
+157,158,Pre-Medical (PU-M),74
+158,159,Pre-Medical (PU-M),42
+159,160,Pre-Medical (PU-M),42
+160,161,Pre-Medical (PU-M),42
+161,162,Pre-Medical (PU-M),63
+162,163,Pre-Medical (PU-M),59
+163,164,Pre-Medical (PU-M),47
+164,165,Pre-Medical (PU-M),62
+165,166,Pre-Medical (PU-M),49
+166,167,Pre-Medical (PU-M),85
+167,168,Pre-Medical (PU-M),71
+168,169,Pre-Medical (PU-M),61
+169,170,Pre-Medical (PU-M),53
+170,171,Pre-Medical (PU-M),56
+171,172,Pre-Medical (PU-M),55
+172,173,Pre-Medical (PU-M),44
+173,174,Pre-Medical (PU-M),0
+174,175,Pre-Medical (PU-M),42
+175,176,Pre-Medical (PU-M),50
+176,177,Pre-Medical (PU-M),69
+177,178,Pre-Medical (PU-M),61
+178,179,Pre-Medical (PU-M),55
+179,180,Pre-Medical (PU-M),45
+180,181,Pre-Medical (PU-M),52
+181,182,Pre-Medical (PU-M),66
+182,183,Pre-Medical (PU-M),57
+183,184,Pre-Medical (PU-M),58
+184,185,Pre-Medical (PU-M),32
+185,186,Pre-Medical (PU-M),32
+186,187,Pre-Medical (PU-M),32
+187,188,Pre-Medical (PU-M),66
+188,189,Pre-Medical (PU-M),38
+189,190,Pre-Medical (PU-M),47
+190,191,Pre-Medical (PU-M),51
+191,192,Pre-Medical (PU-M),51
+192,193,Pre-Medical (PU-M),62
+193,194,Pre-Medical (PU-M),0
+194,195,Pre-Medical (PU-M),0
+195,196,Pre-Medical (PU-M),0
+196,197,Pre-Medical (PU-M),53
+197,198,Pre-Medical (PU-M),37
+198,199,Pre-Medical (PU-M),37
+199,200,Pre-Medical (PU-M),37
+200,201,Pre-Medical (PU-M),50
+201,202,Pre-Medical (PU-M),41
+202,203,Pre-Medical (PU-M),69
+203,204,Pre-Medical (PU-M),50
+204,205,Pre-Medical (PU-M),67
+205,206,Pre-Medical (PU-M),46
+206,207,Pre-Medical (PU-M),46
+207,208,Pre-Medical (PU-M),46
+208,209,Pre-Medical (PU-M),46
+209,210,Pre-Medical (PU-M),37
+210,211,Pre-Medical (PU-M),37
+211,212,Pre-Medical (PU-M),63
+212,213,Pre-Medical (PU-M),57
+213,214,Pre-Medical (PU-M),57
+214,215,Pre-Medical (PU-M),56
+215,216,Pre-Medical (PU-M),47
+216,218,Pre-Medical (PU-M),38
+217,219,Pre-Medical (PU-M),60
+218,220,Pre-Medical (PU-M),64
+219,221,Pre-Medical (PU-M),64
+220,222,Pre-Medical (PU-M),64
+221,223,Pre-Medical (PU-M),40
+222,224,Pre-Medical (PU-M),40
+223,225,Pre-Medical (PU-M),40
+224,226,Pre-Medical (PU-M),45
+225,227,Pre-Medical (PU-M),45
+226,228,Pre-Medical (PU-M),45
+227,229,Pre-Medical (PU-M),64
+228,230,Pre-Medical (PU-M),64
+229,231,Pre-Medical (PU-M),64
+230,232,Pre-Medical (PU-M),51
+231,233,Pre-Medical (PU-M),51
+232,234,Pre-Medical (PU-M),51
+233,235,Pre-Medical (PU-M),61
+234,236,Pre-Medical (PU-M),61
+235,237,Pre-Medical (PU-M),61
+236,238,Pre-Medical (PU-M),44
+237,239,Pre-Medical (PU-M),0
+238,240,Pre-Medical (PU-M),0
+239,241,Pre-Medical (PU-M),0
+240,242,Pre-Medical (PU-M),61
+241,243,Pre-Medical (PU-M),56
+242,244,Pre-Medical (PU-M),0
+243,245,Pre-Medical (PU-M),49
+244,246,Pre-Medical (PU-M),54
+245,247,Pre-Medical (PU-M),54
+246,248,Pre-Medical (PU-M),54
+247,249,Pre-Medical (PU-M),59
+248,250,Pre-Medical (PU-M),59
+249,251,Pre-Medical (PU-M),59
+250,252,Pre-Medical (PU-M),34
+251,253,Pre-Medical (PU-M),35
+252,254,Pre-Medical (PU-M),43
+253,255,Pre-Medical (PU-M),33
+254,256,Pre-Medical (PU-M),50
+255,257,Pre-Medical (PU-M),50
+256,258,Pre-Medical (PU-M),0
+257,259,Pre-Medical (PU-M),0
+258,260,Pre-Medical (PU-M),0
+259,261,ICS with Physics Combination (PU-CSP),48
+260,262,ICS with Physics Combination (PU-CSP),48
+261,263,ICS with Physics Combination (PU-CSP),48
+262,264,ICS with Physics Combination (PU-CSP),49
+263,265,ICS with Physics Combination (PU-CSP),49
+264,266,ICS with Physics Combination (PU-CSP),67
+265,267,ICS with Physics Combination (PU-CSP),48
+266,268,ICS with Physics Combination (PU-CSP),48
+267,269,ICS with Physics Combination (PU-CSP),0
+268,270,ICS with Physics Combination (PU-CSP),61
+269,271,ICS with Physics Combination (PU-CSP),0
+270,272,ICS with Physics Combination (PU-CSP),51
+271,273,ICS with Physics Combination (PU-CSP),38
+272,274,ICS with Physics Combination (PU-CSP),41
+273,275,ICS with Physics Combination (PU-CSP),55
+274,276,ICS with Physics Combination (PU-CSP),59
+275,277,ICS with Physics Combination (PU-CSP),59
+276,278,ICS with Physics Combination (PU-CSP),0
+277,279,ICS with Physics Combination (PU-CSP),45
+278,280,ICS with Physics Combination (PU-CSP),45
+279,281,ICS with Physics Combination (PU-CSP),46
+280,282,ICS with Physics Combination (PU-CSP),47
+281,283,ICS with Physics Combination (PU-CSP),47
+282,284,ICS with Physics Combination (PU-CSP),47
+283,285,ICS with Physics Combination (PU-CSP),63
+284,286,ICS with Physics Combination (PU-CSP),71
+285,287,ICS with Physics Combination (PU-CSP),71
+286,288,ICS with Physics Combination (PU-CSP),71
+287,289,ICS with Physics Combination (PU-CSP),66
+288,290,ICS with Physics Combination (PU-CSP),79
+289,291,Pre-Engineering (PU-E),41
+290,292,Pre-Engineering (PU-E),0
+291,293,Pre-Engineering (PU-E),52
+292,294,Pre-Engineering (PU-E),52
+293,295,Pre-Engineering (PU-E),52
+294,296,Pre-Engineering (PU-E),0
+295,297,Pre-Engineering (PU-E),55
+296,298,Pre-Engineering (PU-E),47
+297,300,Pre-Engineering (PU-E),81
+298,301,Pre-Engineering (PU-E),37
+299,302,Pre-Engineering (PU-E),37
+300,303,Pre-Engineering (PU-E),37
+301,304,Pre-Engineering (PU-E),0
+302,305,Pre-Engineering (PU-E),66
+303,306,Pre-Engineering (PU-E),45
+304,307,Pre-Engineering (PU-E),0
+305,308,Pre-Engineering (PU-E),0
+306,309,Pre-Engineering (PU-E),46
+307,310,Pre-Engineering (PU-E),61
+308,311,Pre-Medical (PU-M),48
+309,312,Pre-Medical (PU-M),63
+310,313,Pre-Medical (PU-M),45
+311,314,Pre-Medical (PU-M),51
+312,315,Pre-Medical (PU-M),59
+313,316,Pre-Medical (PU-M),44
+314,317,Pre-Medical (PU-M),41
+315,318,Pre-Medical (PU-M),55
+316,319,Pre-Medical (PU-M),63
+317,320,Pre-Medical (PU-M),69
+318,321,Pre-Medical (PU-M),73
+319,322,Pre-Medical (PU-M),73
+320,323,Pre-Medical (PU-M),50
+321,324,Pre-Medical (PU-M),50
+322,325,Pre-Medical (PU-M),0
+323,326,Pre-Medical (PU-M),0
+324,327,Pre-Medical (PU-M),45
+325,328,Pre-Medical (PU-M),45
+326,329,Pre-Medical (PU-M),45
+327,330,Pre-Medical (PU-M),60
+328,331,Pre-Medical (PU-M),60
+329,332,Pre-Medical (PU-M),48
+330,333,Pre-Medical (PU-M),47
+331,334,Pre-Medical (PU-M),72
+332,335,Pre-Medical (PU-M),70
+333,336,Pre-Medical (PU-M),70
+334,338,Pre-Medical (PU-M),60
+335,339,Pre-Medical (PU-M),46
+336,340,Pre-Medical (PU-M),58
+337,341,Pre-Medical (PU-M),48
+338,342,Pre-Medical (PU-M),62
+339,343,Pre-Medical (PU-M),60
+340,344,Pre-Medical (PU-M),37
+341,345,Pre-Medical (PU-M),50
+342,346,Pre-Medical (PU-M),48
+343,347,Pre-Medical (PU-M),48
+344,348,Pre-Medical (PU-M),65
+345,349,Pre-Medical (PU-M),65
+346,350,Pre-Medical (PU-M),65
+347,351,Pre-Medical (PU-M),65
+348,352,Pre-Medical (PU-M),56
+349,353,Pre-Medical (PU-M),54
+350,354,Pre-Medical (PU-M),64
+351,355,Pre-Medical (PU-M),68
+352,356,Pre-Medical (PU-M),55
+353,357,Pre-Medical (PU-M),76
+354,358,Pre-Medical (PU-M),73
+355,359,Pre-Medical (PU-M),52
+356,360,Pre-Medical (PU-M),44
+357,361,Pre-Medical (PU-M),50
+358,362,Pre-Medical (PU-M),50
+359,363,Pre-Medical (PU-M),54
+360,364,Pre-Medical (PU-M),42
+361,365,Pre-Medical (PU-M),42
+362,366,Pre-Medical (PU-M),42
+363,367,Pre-Medical (PU-M),68
+364,368,Pre-Medical (PU-M),68
+365,369,Pre-Medical (PU-M),68
+366,370,Pre-Medical (PU-M),50
+367,371,Pre-Medical (PU-M),34
+368,372,Pre-Medical (PU-M),54
+369,373,Pre-Medical (PU-M),58
+370,374,Pre-Medical (PU-M),58
+371,375,Pre-Medical (PU-M),58
+372,376,Pre-Medical (PU-M),62
+373,377,Pre-Medical (PU-M),75
+374,378,Pre-Medical (PU-M),79
+375,379,Pre-Medical (PU-M),79
+376,380,Pre-Medical (PU-M),79
+377,381,Pre-Medical (PU-M),59
+378,382,Pre-Medical (PU-M),59
+379,383,Pre-Medical (PU-M),63
+380,384,ICS with Physics Combination (PU-CSP),74
+381,385,ICS with Physics Combination (PU-CSP),0
+382,386,ICS with Physics Combination (PU-CSP),37
+383,387,ICS with Physics Combination (PU-CSP),40
+384,388,ICS with Physics Combination (PU-CSP),0
+385,389,ICS with Physics Combination (PU-CSP),53
+386,390,ICS with Physics Combination (PU-CSP),0
+387,391,ICS with Physics Combination (PU-CSP),66
+388,392,ICS with Physics Combination (PU-CSP),42
+389,393,ICS with Physics Combination (PU-CSP),63
+390,394,ICS with Physics Combination (PU-CSP),0
+391,395,ICS with Physics Combination (PU-CSP),42
+392,396,ICS with Physics Combination (PU-CSP),42
+393,397,ICS with Physics Combination (PU-CSP),42
+394,398,ICS with Physics Combination (PU-CSP),79
+395,399,ICS with Physics Combination (PU-CSP),48
+396,400,ICS with Physics Combination (PU-CSP),0
+397,401,ICS with Physics Combination (PU-CSP),0
+398,402,ICS with Physics Combination (PU-CSP),0
+399,403,ICS with Physics Combination (PU-CSP),56
+400,404,ICS with Physics Combination (PU-CSP),52
+401,405,ICS with Physics Combination (PU-CSP),31
+402,406,ICS with Physics Combination (PU-CSP),29
+403,407,ICS with Physics Combination (PU-CSP),49
+404,408,ICS with Physics Combination (PU-CSP),41
+405,409,ICS with Physics Combination (PU-CSP),52
+406,410,ICS with Physics Combination (PU-CSP),0
+407,411,ICS with Physics Combination (PU-CSP),64
+408,412,ICS with Physics Combination (PU-CSP),44
+409,413,ICS with Physics Combination (PU-CSP),49
+410,414,ICS with Physics Combination (PU-CSP),56
+411,415,ICS with Physics Combination (PU-CSP),62
+412,416,ICS with Physics Combination (PU-CSP),67
+413,417,ICS with Physics Combination (PU-CSP),67
+414,418,ICS with Physics Combination (PU-CSP),67
+415,419,ICS with Physics Combination (PU-CSP),58
+416,420,ICS with Physics Combination (PU-CSP),58
+417,421,ICS with Physics Combination (PU-CSP),58
+418,422,ICS with Physics Combination (PU-CSP),58
+419,423,ICS with Physics Combination (PU-CSP),58
+420,424,ICS with Physics Combination (PU-CSP),58
+421,425,ICS with Physics Combination (PU-CSP),74
+422,426,ICS with Physics Combination (PU-CSP),65
+423,427,ICS with Physics Combination (PU-CSP),65
+424,428,ICS with Physics Combination (PU-CSP),38
+425,429,ICS with Physics Combination (PU-CSP),38
+426,430,ICS with Physics Combination (PU-CSP),41
+427,431,ICS with Physics Combination (PU-CSP),49
+428,432,ICS with Physics Combination (PU-CSP),45
+429,433,ICS with Physics Combination (PU-CSP),54
+430,434,ICS with Physics Combination (PU-CSP),26
+431,435,ICS with Physics Combination (PU-CSP),54
+432,436,ICS with Physics Combination (PU-CSP),54
+433,437,ICS with Physics Combination (PU-CSP),54
+434,438,ICS with Physics Combination (PU-CSP),41
+435,439,Pre-Medical (PU-M),55
+436,440,Pre-Medical (PU-M),55
+437,441,Pre-Medical (PU-M),55
+438,442,Pre-Medical (PU-M),59
+439,443,Pre-Medical (PU-M),54
+440,444,Pre-Medical (PU-M),48
+441,445,Pre-Medical (PU-M),59
+442,446,Pre-Medical (PU-M),33
+443,447,Pre-Medical (PU-M),43
+444,448,Pre-Medical (PU-M),0
+445,449,Pre-Medical (PU-M),60
+446,450,Pre-Medical (PU-M),54
+447,451,Pre-Medical (PU-M),54
+448,452,Pre-Medical (PU-M),54
+449,453,Pre-Medical (PU-M),53
+450,454,Pre-Medical (PU-M),53
+451,455,Pre-Medical (PU-M),53
+452,456,Pre-Medical (PU-M),53
+453,457,Pre-Medical (PU-M),56
+454,458,Pre-Medical (PU-M),50
+455,459,Pre-Medical (PU-M),42
+456,460,Pre-Medical (PU-M),49
+457,461,Pre-Medical (PU-M),49
+458,462,Pre-Medical (PU-M),62
+459,463,Pre-Medical (PU-M),54
+460,464,Pre-Medical (PU-M),68
+461,465,Pre-Medical (PU-M),68
+462,466,Pre-Medical (PU-M),68
+463,467,Pre-Medical (PU-M),49
+464,468,Pre-Medical (PU-M),46
+465,469,Pre-Medical (PU-M),60
+466,470,Pre-Medical (PU-M),60
+467,471,Pre-Medical (PU-M),81
+468,472,Pre-Medical (PU-M),52
+469,473,Pre-Medical (PU-M),58
+470,474,Pre-Medical (PU-M),0
+471,475,Pre-Medical (PU-M),44
+472,476,Pre-Medical (PU-M),53
+473,477,Pre-Medical (PU-M),52
+474,478,Pre-Medical (PU-M),50
+475,479,Pre-Medical (PU-M),41
+476,480,Pre-Medical (PU-M),50
+477,481,Pre-Medical (PU-M),50
+478,482,Pre-Medical (PU-M),50
+479,483,Pre-Medical (PU-M),31
+480,484,Pre-Medical (PU-M),50
+481,485,Pre-Medical (PU-M),41
+482,486,Pre-Medical (PU-M),0
+483,487,Pre-Medical (PU-M),50
+484,488,Pre-Medical (PU-M),50
+485,489,Pre-Medical (PU-M),50
+486,490,Pre-Medical (PU-M),50
+487,491,Pre-Medical (PU-M),45
+488,492,Pre-Medical (PU-M),45
+489,493,Pre-Medical (PU-M),45
+490,494,Pre-Medical (PU-M),50
+491,495,Pre-Medical (PU-M),50
+492,496,Pre-Medical (PU-M),43
+493,497,Pre-Medical (PU-M),0
+494,498,Pre-Medical (PU-M),0
+495,499,Pre-Medical (PU-M),23
+496,500,Pre-Medical (PU-M),0
+497,501,Pre-Medical (PU-M),51
+498,502,Pre-Medical (PU-M),46
+499,503,Pre-Medical (PU-M),0
+500,504,Pre-Medical (PU-M),39
+501,505,Pre-Medical (PU-M),45
+502,506,Pre-Medical (PU-M),45
+503,507,Pre-Medical (PU-M),45
+504,508,ICS with Physics Combination (PU-CSP),47
+505,509,ICS with Physics Combination (PU-CSP),47
+506,510,ICS with Physics Combination (PU-CSP),47
+507,511,ICS with Physics Combination (PU-CSP),86
+508,512,ICS with Physics Combination (PU-CSP),57
+509,513,ICS with Physics Combination (PU-CSP),55
+510,514,ICS with Physics Combination (PU-CSP),55
+511,515,ICS with Physics Combination (PU-CSP),55
+512,516,ICS with Physics Combination (PU-CSP),45
+513,517,ICS with Physics Combination (PU-CSP),40
+514,518,ICS with Physics Combination (PU-CSP),63
+515,519,ICS with Physics Combination (PU-CSP),63
+516,520,ICS with Physics Combination (PU-CSP),63
+517,521,ICS with Physics Combination (PU-CSP),60
+518,522,ICS with Physics Combination (PU-CSP),60
+519,523,ICS with Physics Combination (PU-CSP),65
+520,524,ICS with Physics Combination (PU-CSP),65
+521,525,ICS with Physics Combination (PU-CSP),59
+522,526,ICS with Physics Combination (PU-CSP),59
+523,527,ICS with Physics Combination (PU-CSP),0
+524,528,ICS with Physics Combination (PU-CSP),50
+525,529,ICS with Physics Combination (PU-CSP),51
+526,530,ICS with Physics Combination (PU-CSP),68
+527,531,ICS with Physics Combination (PU-CSP),41
+528,532,ICS with Physics Combination (PU-CSP),73
+529,533,ICS with Physics Combination (PU-CSP),77
+530,534,ICS with Physics Combination (PU-CSP),79
+531,535,ICS with Physics Combination (PU-CSP),71
+532,536,ICS with Physics Combination (PU-CSP),64
+533,537,ICS with Physics Combination (PU-CSP),64
+534,538,ICS with Physics Combination (PU-CSP),75
+535,539,ICS with Physics Combination (PU-CSP),65
+536,540,ICS with Physics Combination (PU-CSP),57
+537,541,ICS with Physics Combination (PU-CSP),55
+538,542,ICS with Physics Combination (PU-CSP),39
+539,543,ICS with Physics Combination (PU-CSP),61
+540,544,ICS with Physics Combination (PU-CSP),52
+541,545,ICS with Physics Combination (PU-CSP),39
+542,546,ICS with Physics Combination (PU-CSP),85
+543,547,ICS with Physics Combination (PU-CSP),74
+544,548,ICS with Physics Combination (PU-CSP),60
+545,549,ICS with Physics Combination (PU-CSP),54
+546,550,ICS with Physics Combination (PU-CSP),54
+547,551,ICS with Physics Combination (PU-CSP),42
+548,552,ICS with Physics Combination (PU-CSP),57
+549,553,ICS with Physics Combination (PU-CSP),48
+550,554,ICS with Physics Combination (PU-CSP),55
+551,555,ICS with Physics Combination (PU-CSP),80
+552,556,ICS with Physics Combination (PU-CSP),70
+553,557,ICS with Physics Combination (PU-CSP),61
+554,558,ICS with Physics Combination (PU-CSP),63
+555,559,ICS with Physics Combination (PU-CSP),54
+556,560,ICS with Physics Combination (PU-CSP),57
+557,561,ICS with Physics Combination (PU-CSP),59
+558,562,ICS with Physics Combination (PU-CSP),50
+559,563,ICS with Physics Combination (PU-CSP),50
+560,564,ICS with Physics Combination (PU-CSP),50
+561,565,ICS with Physics Combination (PU-CSP),86
+562,566,ICS with Physics Combination (PU-CSP),86
+563,567,ICS with Physics Combination (PU-CSP),0
+564,568,ICS with Physics Combination (PU-CSP),46
+565,569,ICS with Physics Combination (PU-CSP),80
+566,570,ICS with Physics Combination (PU-CSP),69
+567,571,ICS with Physics Combination (PU-CSP),58
+568,572,ICS with Physics Combination (PU-CSP),65
+569,573,ICS with Physics Combination (PU-CSP),57
+570,574,ICS with Physics Combination (PU-CSP),66
+571,575,ICS with Physics Combination (PU-CSP),41
+572,576,ICS with Physics Combination (PU-CSP),0
+573,577,ICS with Physics Combination (PU-CSP),76
+574,578,ICS with Physics Combination (PU-CSP),45
+575,579,ICS with Physics Combination (PU-CSP),53
+576,580,ICS with Physics Combination (PU-CSP),71
+577,581,ICS with Physics Combination (PU-CSP),52
+578,582,ICS with Physics Combination (PU-CSP),76
+579,583,ICS with Physics Combination (PU-CSP),59
+580,584,ICS with Physics Combination (PU-CSP),56
+581,585,ICS with Physics Combination (PU-CSP),67
+582,586,ICS with Physics Combination (PU-CSP),56
+583,587,ICS with Physics Combination (PU-CSP),0
+584,588,ICS with Statistics Combination (PU-CSS),0
+585,589,ICS with Statistics Combination (PU-CSS),61
+586,590,ICS with Statistics Combination (PU-CSS),53
+587,591,ICS with Statistics Combination (PU-CSS),46
+588,592,ICS with Statistics Combination (PU-CSS),49
+589,593,ICS with Statistics Combination (PU-CSS),68
+590,594,ICS with Statistics Combination (PU-CSS),68
+591,595,ICS with Statistics Combination (PU-CSS),68
+592,596,ICS with Statistics Combination (PU-CSS),25
+593,597,ICS with Statistics Combination (PU-CSS),25
+594,598,ICS with Statistics Combination (PU-CSS),55
+595,599,ICS with Statistics Combination (PU-CSS),49
+596,600,Pre-Engineering (PU-E),59
+597,601,Pre-Engineering (PU-E),54
+598,602,Pre-Engineering (PU-E),57
+599,603,Pre-Engineering (PU-E),50
+600,604,Pre-Engineering (PU-E),25
+601,605,Pre-Engineering (PU-E),53
+602,606,Pre-Engineering (PU-E),53
+603,607,Pre-Engineering (PU-E),45
+604,608,Pre-Engineering (PU-E),53
+605,609,Pre-Engineering (PU-E),53
+606,610,Pre-Engineering (PU-E),53
+607,611,Pre-Engineering (PU-E),82
+608,612,Pre-Engineering (PU-E),46
+609,613,Pre-Engineering (PU-E),44
+610,614,Pre-Engineering (PU-E),59
+611,615,Pre-Engineering (PU-E),58
+612,616,Pre-Engineering (PU-E),59
+613,617,Pre-Engineering (PU-E),0
+614,618,Pre-Engineering (PU-E),58
+615,619,Pre-Engineering (PU-E),58
+616,620,Pre-Engineering (PU-E),58
+617,621,Pre-Engineering (PU-E),54
+618,622,Pre-Engineering (PU-E),47
+619,623,Pre-Engineering (PU-E),55
+620,624,Pre-Engineering (PU-E),55
+621,625,Pre-Engineering (PU-E),55
+622,626,Pre-Engineering (PU-E),58
+623,627,Pre-Engineering (PU-E),63
+624,628,Pre-Engineering (PU-E),72
+625,629,Pre-Engineering (PU-E),61
+626,630,Pre-Engineering (PU-E),64
+627,631,Pre-Engineering (PU-E),66
+628,632,Pre-Engineering (PU-E),56
+629,633,Pre-Engineering (PU-E),60
+630,634,Pre-Engineering (PU-E),0
+631,635,Pre-Engineering (PU-E),78
+632,636,Pre-Engineering (PU-E),80
+633,637,Pre-Engineering (PU-E),43
+634,638,Pre-Engineering (PU-E),60
+635,639,Pre-Engineering (PU-E),0
+636,640,Pre-Engineering (PU-E),86
+637,641,Pre-Engineering (PU-E),58
+638,642,Pre-Engineering (PU-E),77
+639,643,Pre-Engineering (PU-E),61
+640,644,Pre-Engineering (PU-E),61
+641,645,Pre-Engineering (PU-E),61
+642,646,Pre-Engineering (PU-E),63
+643,647,Pre-Engineering (PU-E),82
+644,648,Pre-Engineering (PU-E),48
+645,649,Pre-Engineering (PU-E),72
+646,650,Pre-Engineering (PU-E),58
+647,651,Pre-Engineering (PU-E),71
+648,652,Pre-Engineering (PU-E),74
+649,653,Pre-Engineering (PU-E),64
+650,654,Pre-Engineering (PU-E),57
+651,655,Pre-Engineering (PU-E),47
+652,656,Pre-Engineering (PU-E),47
+653,657,Pre-Engineering (PU-E),0
+654,658,Pre-Engineering (PU-E),59
+655,659,Pre-Engineering (PU-E),35
+656,660,Pre-Engineering (PU-E),61
+657,661,Pre-Engineering (PU-E),77
+658,662,Pre-Engineering (PU-E),43
+659,663,Pre-Engineering (PU-E),46
+660,664,Pre-Engineering (PU-E),65
+661,665,Pre-Engineering (PU-E),71
+662,666,Pre-Engineering (PU-E),65
+663,667,Pre-Engineering (PU-E),77
+664,668,Pre-Engineering (PU-E),76
+665,669,Pre-Engineering (PU-E),0
+666,670,Pre-Engineering (PU-E),61
+667,671,Pre-Engineering (PU-E),0
+668,672,Pre-Engineering (PU-E),0
+669,673,Pre-Engineering (PU-E),66
+670,674,Pre-Engineering (PU-E),59
+671,675,Pre-Engineering (PU-E),37
+672,676,Pre-Engineering (PU-E),63
+673,677,Pre-Engineering (PU-E),54
+674,678,Pre-Engineering (PU-E),38
+675,679,"Arts, Humanities & Social Sciences (PU-AHS)",52
+676,680,"Arts, Humanities & Social Sciences (PU-AHS)",0
+677,681,"Arts, Humanities & Social Sciences (PU-AHS)",52
+678,682,"Arts, Humanities & Social Sciences (PU-AHS)",48
+679,683,"Arts, Humanities & Social Sciences (PU-AHS)",61
+680,684,"Arts, Humanities & Social Sciences (PU-AHS)",56
+681,685,"Arts, Humanities & Social Sciences (PU-AHS)",59
+682,686,"Arts, Humanities & Social Sciences (PU-AHS)",62
+683,687,"Arts, Humanities & Social Sciences (PU-AHS)",63
+684,688,"Arts, Humanities & Social Sciences (PU-AHS)",37
+685,689,"Arts, Humanities & Social Sciences (PU-AHS)",52
+686,690,"Arts, Humanities & Social Sciences (PU-AHS)",0
+687,691,"Arts, Humanities & Social Sciences (PU-AHS)",50
+688,692,"Arts, Humanities & Social Sciences (PU-AHS)",59
+689,693,"Arts, Humanities & Social Sciences (PU-AHS)",54
+690,694,"Arts, Humanities & Social Sciences (PU-AHS)",0
+691,695,"Arts, Humanities & Social Sciences (PU-AHS)",0
+692,696,"Arts, Humanities & Social Sciences (PU-AHS)",0
+693,697,"Arts, Humanities & Social Sciences (PU-AHS)",0
+694,698,"Arts, Humanities & Social Sciences (PU-AHS)",49
+695,699,"Arts, Humanities & Social Sciences (PU-AHS)",0
+696,700,"Arts, Humanities & Social Sciences (PU-AHS)",0
+697,702,"Arts, Humanities & Social Sciences (PU-AHS)",61
+698,703,"Arts, Humanities & Social Sciences (PU-AHS)",53
+699,705,"Arts, Humanities & Social Sciences (PU-AHS)",63
+700,706,"Arts, Humanities & Social Sciences (PU-AHS)",0
+701,707,"Arts, Humanities & Social Sciences (PU-AHS)",0
+702,708,"Arts, Humanities & Social Sciences (PU-AHS)",62
+703,709,ICS with Physics Combination (PU-CSP),44
+704,710,ICS with Physics Combination (PU-CSP),45
+705,711,ICS with Physics Combination (PU-CSP),59
+706,712,ICS with Physics Combination (PU-CSP),61
+707,713,ICS with Physics Combination (PU-CSP),46
+708,714,ICS with Physics Combination (PU-CSP),55
+709,715,ICS with Physics Combination (PU-CSP),61
+710,716,ICS with Physics Combination (PU-CSP),57
+711,717,ICS with Physics Combination (PU-CSP),0
+712,718,ICS with Physics Combination (PU-CSP),69
+713,719,ICS with Physics Combination (PU-CSP),50
+714,720,ICS with Physics Combination (PU-CSP),51
+715,721,ICS with Physics Combination (PU-CSP),38
+716,722,ICS with Physics Combination (PU-CSP),59
+717,723,ICS with Physics Combination (PU-CSP),66
+718,724,ICS with Physics Combination (PU-CSP),44
+719,725,ICS with Physics Combination (PU-CSP),71
+720,726,ICS with Physics Combination (PU-CSP),74
+721,727,ICS with Physics Combination (PU-CSP),54
+722,728,ICS with Physics Combination (PU-CSP),0
+723,729,ICS with Physics Combination (PU-CSP),54
+724,730,ICS with Physics Combination (PU-CSP),59
+725,731,ICS with Physics Combination (PU-CSP),43
+726,732,ICS with Physics Combination (PU-CSP),45
+727,733,ICS with Physics Combination (PU-CSP),70
+728,734,ICS with Physics Combination (PU-CSP),70
+729,735,ICS with Physics Combination (PU-CSP),70
+730,736,ICS with Physics Combination (PU-CSP),70
+731,737,ICS with Physics Combination (PU-CSP),62
+732,738,ICS with Physics Combination (PU-CSP),49
+733,739,ICS with Physics Combination (PU-CSP),49
+734,740,ICS with Physics Combination (PU-CSP),49
+735,741,ICS with Physics Combination (PU-CSP),0
+736,742,ICS with Physics Combination (PU-CSP),0
+737,743,ICS with Physics Combination (PU-CSP),0
+738,744,ICS with Physics Combination (PU-CSP),56
+739,745,ICS with Physics Combination (PU-CSP),56
+740,746,ICS with Physics Combination (PU-CSP),56
+741,747,ICS with Physics Combination (PU-CSP),82
+742,748,ICS with Physics Combination (PU-CSP),60
+743,749,ICS with Physics Combination (PU-CSP),42
+744,750,ICS with Physics Combination (PU-CSP),46
+745,751,ICS with Physics Combination (PU-CSP),35
+746,752,ICS with Physics Combination (PU-CSP),0
+747,753,Pre-Medical (PU-M),44
+748,754,Pre-Medical (PU-M),74
+749,755,Pre-Medical (PU-M),75
+750,756,Pre-Medical (PU-M),37
+751,757,Pre-Medical (PU-M),33
+752,758,Pre-Medical (PU-M),72
+753,759,Pre-Medical (PU-M),66
+754,760,Pre-Medical (PU-M),51
+755,761,Pre-Medical (PU-M),50
+756,762,Pre-Medical (PU-M),50
+757,763,Pre-Medical (PU-M),61
+758,764,Pre-Medical (PU-M),77
+759,765,Pre-Medical (PU-M),32
+760,766,Pre-Medical (PU-M),32
+761,767,Pre-Medical (PU-M),32
+762,768,Pre-Medical (PU-M),74
+763,769,Pre-Medical (PU-M),74
+764,770,Pre-Medical (PU-M),63
+765,771,Pre-Medical (PU-M),54
+766,772,Pre-Medical (PU-M),41
+767,773,Pre-Medical (PU-M),71
+768,774,Pre-Medical (PU-M),71
+769,775,Pre-Medical (PU-M),71
+770,776,Pre-Medical (PU-M),60
+771,777,Pre-Medical (PU-M),43
+772,778,Pre-Medical (PU-M),43
+773,779,Pre-Medical (PU-M),46
+774,780,Pre-Medical (PU-M),47
+775,781,Pre-Medical (PU-M),0
+776,782,Pre-Medical (PU-M),56
+777,783,Pre-Medical (PU-M),0
+778,784,Pre-Medical (PU-M),33
+779,785,Pre-Medical (PU-M),47
+780,786,Pre-Medical (PU-M),51
+781,787,Pre-Medical (PU-M),51
+782,788,Pre-Medical (PU-M),51
+783,789,Pre-Medical (PU-M),45
+784,790,Pre-Medical (PU-M),41
+785,791,Pre-Medical (PU-M),38
+786,792,Pre-Medical (PU-M),43
+787,793,Pre-Medical (PU-M),60
+788,794,Pre-Medical (PU-M),65
+789,795,Pre-Medical (PU-M),65
+790,797,Pre-Medical (PU-M),46
+791,798,Pre-Medical (PU-M),57
+792,799,Pre-Medical (PU-M),57
+793,800,Pre-Medical (PU-M),57
+794,801,Pre-Medical (PU-M),62
+795,802,Pre-Medical (PU-M),0
+796,803,Pre-Medical (PU-M),46
+797,804,Pre-Medical (PU-M),46
+798,805,Pre-Medical (PU-M),46
+799,806,Pre-Medical (PU-M),68
+800,807,Pre-Medical (PU-M),68
+801,808,Pre-Medical (PU-M),68
+802,809,Pre-Medical (PU-M),36
+803,810,Pre-Medical (PU-M),43
+804,811,Pre-Medical (PU-M),43
+805,812,Pre-Medical (PU-M),43
+806,813,Pre-Medical (PU-M),0
+807,814,Pre-Medical (PU-M),49
+808,815,Pre-Medical (PU-M),49
+809,816,Pre-Medical (PU-M),0
+810,817,Pre-Medical (PU-M),0
+811,818,Pre-Medical (PU-M),0
+812,819,Pre-Medical (PU-M),0
+813,820,Pre-Medical (PU-M),41
+814,821,Pre-Medical (PU-M),47
+815,822,Pre-Medical (PU-M),52
+816,823,Pre-Medical (PU-M),52
+817,824,Pre-Medical (PU-M),67
+818,825,Pre-Medical (PU-M),67
+819,826,Pre-Medical (PU-M),67
+820,827,Pre-Medical (PU-M),67
+821,828,Pre-Medical (PU-M),67
+822,829,Pre-Medical (PU-M),67
+823,830,Pre-Medical (PU-M),38
+824,831,Pre-Medical (PU-M),68
+825,832,Pre-Medical (PU-M),68
+826,833,Pre-Medical (PU-M),57
+827,834,Pre-Medical (PU-M),0
+828,835,Pre-Medical (PU-M),43
+829,836,Pre-Medical (PU-M),43
+830,837,Pre-Medical (PU-M),36
+831,838,Pre-Medical (PU-M),66
+832,839,Pre-Medical (PU-M),55
+833,840,Pre-Medical (PU-M),79
+834,841,Pre-Medical (PU-M),67
+835,842,Pre-Medical (PU-M),81
+836,843,Pre-Medical (PU-M),46
+837,844,Pre-Medical (PU-M),54
+838,845,Pre-Medical (PU-M),43
+839,846,Pre-Medical (PU-M),43
+840,847,Pre-Medical (PU-M),43
+841,848,ICS with Physics Combination (PU-CSP),67
+842,849,ICS with Physics Combination (PU-CSP),78
+843,850,ICS with Physics Combination (PU-CSP),78
+844,852,ICS with Physics Combination (PU-CSP),47
+845,853,ICS with Physics Combination (PU-CSP),47
+846,854,ICS with Physics Combination (PU-CSP),47
+847,855,ICS with Physics Combination (PU-CSP),43
+848,856,ICS with Physics Combination (PU-CSP),55
+849,857,ICS with Physics Combination (PU-CSP),55
+850,858,ICS with Physics Combination (PU-CSP),61
+851,859,ICS with Physics Combination (PU-CSP),54
+852,860,ICS with Physics Combination (PU-CSP),54
+853,861,ICS with Physics Combination (PU-CSP),73
+854,862,ICS with Physics Combination (PU-CSP),73
+855,863,ICS with Physics Combination (PU-CSP),80
+856,864,ICS with Physics Combination (PU-CSP),57
+857,865,ICS with Physics Combination (PU-CSP),52
+858,866,ICS with Physics Combination (PU-CSP),84
+859,867,ICS with Physics Combination (PU-CSP),66
+860,868,ICS with Physics Combination (PU-CSP),66
+861,869,ICS with Physics Combination (PU-CSP),47
+862,870,ICS with Physics Combination (PU-CSP),53
+863,871,ICS with Physics Combination (PU-CSP),41
+864,872,ICS with Physics Combination (PU-CSP),45
+865,873,ICS with Physics Combination (PU-CSP),45
+866,874,ICS with Physics Combination (PU-CSP),0
+867,875,ICS with Physics Combination (PU-CSP),63
+868,876,ICS with Physics Combination (PU-CSP),48
+869,877,ICS with Physics Combination (PU-CSP),49
+870,878,ICS with Physics Combination (PU-CSP),39
+871,879,ICS with Physics Combination (PU-CSP),0
+872,880,ICS with Physics Combination (PU-CSP),76
+873,881,ICS with Physics Combination (PU-CSP),61
+874,882,ICS with Physics Combination (PU-CSP),53
+875,883,ICS with Physics Combination (PU-CSP),67
+876,884,ICS with Physics Combination (PU-CSP),69
+877,885,ICS with Physics Combination (PU-CSP),72
+878,886,ICS with Physics Combination (PU-CSP),63
+879,887,ICS with Physics Combination (PU-CSP),0
+880,888,ICS with Physics Combination (PU-CSP),67
+881,889,ICS with Physics Combination (PU-CSP),61
+882,890,ICS with Physics Combination (PU-CSP),48
+883,891,ICS with Physics Combination (PU-CSP),48
+884,892,ICS with Physics Combination (PU-CSP),48
+885,893,ICS with Physics Combination (PU-CSP),49
+886,894,ICS with Physics Combination (PU-CSP),63
+887,895,ICS with Physics Combination (PU-CSP),63
+888,896,ICS with Physics Combination (PU-CSP),63
+889,897,ICS with Physics Combination (PU-CSP),49
+890,898,ICS with Physics Combination (PU-CSP),83
+891,899,ICS with Physics Combination (PU-CSP),60
+892,900,ICS with Physics Combination (PU-CSP),60
+893,901,ICS with Physics Combination (PU-CSP),60
+894,902,ICS with Physics Combination (PU-CSP),41
+895,903,ICS with Physics Combination (PU-CSP),65
+896,904,Pre-Engineering (PU-E),65
+897,905,Pre-Engineering (PU-E),54
+898,906,Pre-Engineering (PU-E),47
+899,907,Pre-Engineering (PU-E),54
+900,908,Pre-Engineering (PU-E),54
+901,909,Pre-Engineering (PU-E),58
+902,910,Pre-Engineering (PU-E),76
+903,911,Pre-Engineering (PU-E),76
+904,912,Pre-Engineering (PU-E),76
+905,913,Pre-Engineering (PU-E),76
+906,914,Pre-Engineering (PU-E),46
+907,915,Pre-Engineering (PU-E),67
+908,916,Pre-Engineering (PU-E),72
+909,917,Pre-Engineering (PU-E),72
+910,918,Pre-Engineering (PU-E),74
+911,919,Pre-Engineering (PU-E),71
+912,920,Pre-Engineering (PU-E),71
+913,921,Pre-Engineering (PU-E),71
+914,922,Pre-Engineering (PU-E),32
+915,923,Pre-Engineering (PU-E),22
+916,924,Pre-Engineering (PU-E),79
+917,925,Pre-Engineering (PU-E),77
+918,926,Pre-Engineering (PU-E),74
+919,927,Pre-Engineering (PU-E),58
+920,928,Pre-Engineering (PU-E),58
+921,929,Pre-Engineering (PU-E),58
+922,930,Pre-Engineering (PU-E),82
+923,931,Pre-Engineering (PU-E),58
+924,932,Pre-Engineering (PU-E),57
+925,933,Pre-Engineering (PU-E),57
+926,934,Pre-Engineering (PU-E),57
+927,935,Pre-Engineering (PU-E),57
+928,936,Pre-Engineering (PU-E),57
+929,937,Pre-Engineering (PU-E),52
+930,938,Pre-Engineering (PU-E),52
+931,939,Pre-Engineering (PU-E),52
+932,940,Pre-Engineering (PU-E),0
+933,941,Pre-Engineering (PU-E),0
+934,942,Pre-Engineering (PU-E),0
+935,943,Pre-Engineering (PU-E),0
+936,944,Pre-Engineering (PU-E),68
+937,945,Pre-Engineering (PU-E),66
+938,946,Pre-Engineering (PU-E),59
+939,947,Pre-Engineering (PU-E),59
+940,948,Pre-Engineering (PU-E),70
+941,949,Pre-Medical (PU-M),56
+942,950,Pre-Medical (PU-M),71
+943,951,Pre-Medical (PU-M),57
+944,952,Pre-Medical (PU-M),57
+945,953,Pre-Medical (PU-M),57
+946,954,Pre-Medical (PU-M),49
+947,955,Pre-Medical (PU-M),49
+948,956,Pre-Medical (PU-M),49
+949,957,Pre-Medical (PU-M),72
+950,958,Pre-Medical (PU-M),72
+951,959,Pre-Medical (PU-M),72
+952,960,Pre-Medical (PU-M),53
+953,962,Pre-Medical (PU-M),0
+954,963,Pre-Medical (PU-M),0
+955,964,Pre-Medical (PU-M),50
+956,965,Pre-Medical (PU-M),54
+957,966,Pre-Medical (PU-M),64
+958,967,Pre-Medical (PU-M),64
+959,968,Pre-Medical (PU-M),64
+960,969,Pre-Medical (PU-M),64
+961,970,Pre-Medical (PU-M),39
+962,971,Pre-Medical (PU-M),51
+963,972,Pre-Medical (PU-M),55
+964,973,Pre-Medical (PU-M),53
+965,974,Pre-Medical (PU-M),82
+966,975,Pre-Medical (PU-M),82
+967,976,Pre-Medical (PU-M),82
+968,977,Pre-Medical (PU-M),82
+969,978,Pre-Medical (PU-M),82
+970,979,Pre-Medical (PU-M),80
+971,980,Pre-Medical (PU-M),0
+972,981,Pre-Medical (PU-M),0
+973,982,Pre-Medical (PU-M),0
+974,983,Pre-Medical (PU-M),60
+975,984,Pre-Medical (PU-M),60
+976,985,Pre-Medical (PU-M),34
+977,986,Pre-Medical (PU-M),34
+978,987,Pre-Medical (PU-M),34
+979,988,Pre-Medical (PU-M),81
+980,989,Pre-Medical (PU-M),60
+981,990,Pre-Medical (PU-M),59
+982,991,Pre-Medical (PU-M),61
+983,992,Pre-Medical (PU-M),0
+984,993,Pre-Medical (PU-M),53
+985,994,Pre-Medical (PU-M),48
+986,995,Pre-Medical (PU-M),28
+987,996,Pre-Medical (PU-M),28
+988,997,Pre-Medical (PU-M),28
+989,998,Pre-Medical (PU-M),27
+990,999,Pre-Medical (PU-M),27
+991,1000,Pre-Medical (PU-M),0
