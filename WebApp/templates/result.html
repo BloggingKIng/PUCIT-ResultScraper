@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Result</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Your Result</h1>
+        <div class="card">
+            <div class="card-body text-center">
+                <h5 class="card-title">Roll Number: {{ roll_number }}</h5>
+                <p class="card-text">Total Students (who appeared in your category): {{ total_students }}</p>
+                <p class="card-text">Category: {{ category }}</p>
+                <p class="card-text">Marks Obtained: {{ marks_obtained }}</p>
+                <p class="card-text">Your Position (in your category): {{ merit_position }}</p>
+                <p class="card-text">Percentile: {{ percentile }}</p>
+            </div>
+        </div>
+        <div style="display: flex; margin: 0 auto; justify-content: center">
+            <a href="/" class="btn btn-primary text-center mt-3">Go Back</a>
+        </div>
+    </div>
+</body>
+</html>

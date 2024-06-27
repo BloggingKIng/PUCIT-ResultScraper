@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Percentile and Merit Position</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="text-center">Student Percentile and Position in entry test (Punjab University)</h2>
+        <form action="/result" method="POST">
+            <div class="form-group">
+                <label for="roll_number text-centers">Roll Number</label>
+                <input type="number" class="form-control" id="roll_number" name="roll_number" required>
+            </div>
+            <div style="display: flex; justify-content: center; margin: 0 auto;">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
